@@ -1,3 +1,3 @@
 print("hello world")
 print(FD_PROJECT_NAME)
-print(JYTHONINPUTSTRING)
+#print(JYTHONINPUTSTRING)
