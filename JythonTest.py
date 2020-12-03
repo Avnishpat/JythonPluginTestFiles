@@ -1,3 +1,3 @@
 print("hello world")
-print(FDJYTHON_INP_CLASSPATH)
+print(FD_PROJECT_NAME)
 print(JYTHONINPUTSTRING)
