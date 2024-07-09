@@ -3,3 +3,4 @@ print(FD_PROJECT_NAME)
 print(FILE_PATH)
 #print(JYTHONINPUTSTRING)
 #welcome
+#just
